@@ -1,10 +1,10 @@
-# Orderify
-Order Management Discord Bot. Advanced, Feature-rich and modern discord.py Bot for managing Orders with a live Panel/Updates &amp; inbuilt configurable Invoice Generator, Feedback System and License Tracking.
+# Slotify
+Advanced discord.py Slot Bot.
 
 ## Startup Instructions via Terminal
-`git clone https://github.com/1llusionfx/Orderify.git`
+`git clone https://github.com/1llusionfx/Slotify`
 
-`cd Orderify`
+`cd Slotify`
 
 `python main.py`
 

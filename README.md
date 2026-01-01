@@ -1,2 +1,12 @@
-# Slotify
-Advanced discord.py Slot Bot. Feature rich Slot Server oriented Bot supporting many Functions. Backups via MongoDB, Recovery System via Tokens, Admin Panel, Daily Nuke/Refresh, Custom Durations, Multiple supported Categories for Slots, Auto check for expired or invalid Slots on Startup, Daily Ping Limit configurable and many more...
+# Orderify
+Order Management Discord Bot. Advanced, Feature-rich and modern discord.py Bot for managing Orders with a live Panel/Updates &amp; inbuilt configurable Invoice Generator, Feedback System and License Tracking.
+
+## Startup Instructions via Terminal
+`git clone https://github.com/1llusionfx/Orderify.git`
+
+`cd Orderify`
+
+`python main.py`
+
+## Help needed or facing issues?
+Contact me via Discord or TG!
